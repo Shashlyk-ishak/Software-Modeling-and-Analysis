@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\students\\Documents\\\u041F\u0435\u0447\u0430\u0442\u043A\u0438\u043D \u041D\u0438\u043A\u0438\u0442\u0430\\LIFT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F315847-21DB-455D-A733-FEC6A6D2DFB1}|LIFT\\LIFT.csproj|c:\\users\\students\\documents\\\u043F\u0435\u0447\u0430\u0442\u043A\u0438\u043D \u043D\u0438\u043A\u0438\u0442\u0430\\lift\\lift\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F315847-21DB-455D-A733-FEC6A6D2DFB1}|LIFT\\LIFT.csproj|solutionrelative:lift\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F315847-21DB-455D-A733-FEC6A6D2DFB1}|LIFT\\LIFT.csproj|c:\\users\\students\\documents\\\u043F\u0435\u0447\u0430\u0442\u043A\u0438\u043D \u043D\u0438\u043A\u0438\u0442\u0430\\lift\\lift\\cabin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F315847-21DB-455D-A733-FEC6A6D2DFB1}|LIFT\\LIFT.csproj|solutionrelative:lift\\cabin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F315847-21DB-455D-A733-FEC6A6D2DFB1}|LIFT\\LIFT.csproj|c:\\users\\students\\documents\\\u043F\u0435\u0447\u0430\u0442\u043A\u0438\u043D \u043D\u0438\u043A\u0438\u0442\u0430\\lift\\lift\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F315847-21DB-455D-A733-FEC6A6D2DFB1}|LIFT\\LIFT.csproj|solutionrelative:lift\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cabin.cs",
+              "DocumentMoniker": "C:\\Users\\students\\Documents\\\u041F\u0435\u0447\u0430\u0442\u043A\u0438\u043D \u041D\u0438\u043A\u0438\u0442\u0430\\LIFT\\LIFT\\Cabin.cs",
+              "RelativeDocumentMoniker": "LIFT\\Cabin.cs",
+              "ToolTip": "C:\\Users\\students\\Documents\\\u041F\u0435\u0447\u0430\u0442\u043A\u0438\u043D \u041D\u0438\u043A\u0438\u0442\u0430\\LIFT\\LIFT\\Cabin.cs",
+              "RelativeToolTip": "LIFT\\Cabin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T11:25:07.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\students\\Documents\\\u041F\u0435\u0447\u0430\u0442\u043A\u0438\u043D \u041D\u0438\u043A\u0438\u0442\u0430\\LIFT\\LIFT\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LIFT\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\students\\Documents\\\u041F\u0435\u0447\u0430\u0442\u043A\u0438\u043D \u041D\u0438\u043A\u0438\u0442\u0430\\LIFT\\LIFT\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LIFT\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:27:24.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\students\\Documents\\\u041F\u0435\u0447\u0430\u0442\u043A\u0438\u043D \u041D\u0438\u043A\u0438\u0442\u0430\\LIFT\\LIFT\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LIFT\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\students\\Documents\\\u041F\u0435\u0447\u0430\u0442\u043A\u0438\u043D \u041D\u0438\u043A\u0438\u0442\u0430\\LIFT\\LIFT\\MainWindow.xaml",
+              "RelativeToolTip": "LIFT\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-18T10:27:25.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
